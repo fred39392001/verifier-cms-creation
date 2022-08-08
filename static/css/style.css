@@ -41,3 +41,15 @@ background-position: center center;
 background-size: contain;
 background-position: center center;
 }
+
+.dropdown-menu-center {
+  position: absolute;
+  top: 60px;
+  right: 0px;
+  left: auto;
+}
+
+.checkbox-1x {
+  transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+}
